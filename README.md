@@ -1,4 +1,13 @@
-### Hello world 👋
+<div align="center">
+  Who am i?
+  A learning dev, trying to be a back-end dev using JS, trying to learn the maximun i can.
+  Also, trying to be a Game Dev, it's my dream, and i'll not give up for this dream!
+  ========================================//==============================================
+  
+  Quem sou eu?
+  Um dev em aprendizado, tentando ser um dev back-end usando JS, tentando aprender o máximo que posso.
+  Além disso, tentar ser um Game Dev, é meu sonho, e não vou desistir desse sonho!
+</div>
 
 <div align="center">
   <a href="https://github.com/mM-b">
