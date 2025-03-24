@@ -1,5 +1,5 @@
 <div align="center">
-  Who am i?
+  Who am i? <br>
   A learning dev, trying to be a back-end dev using JS, trying to learn the maximun i can.<br>
   Also, trying to be a Game Dev, it's my dream, and i'll not give up for this dream!<br>
   ========================================//==========================================
