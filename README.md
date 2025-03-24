@@ -6,7 +6,7 @@
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHercules0810&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
-<div>
+<div align="center">
   <a href="https://iscovao.itch.io">Minha página no Itch.io || My Itch.io page</a>
     
 </div>
