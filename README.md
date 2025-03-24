@@ -15,5 +15,5 @@
 
 <div align="center">
   In learning tecnologies: <br>
-  <img src="https://github.com/PedroHercules0810/cluster/blob/main/logotipo.png">
+  <img src="https://github.com/PedroHercules0810/cluster/blob/main/logotipo.png" width=20% height=20%>
 </div>
