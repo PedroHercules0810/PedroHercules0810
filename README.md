@@ -16,5 +16,5 @@
 <div align="center">
   In learning tecnologies: <br>
   <img src="https://github.com/PedroHercules0810/cluster/blob/main/logotipo.png" width="30px"> JavaScript <br>
-  <img src="https://github.com/PedroHercules0810/cluster/blob/main/gamemaker-icon-l3s22cd91hciaaym-c.png" width="30px"> JavaScript <br>
+  <img src="https://github.com/PedroHercules0810/cluster/blob/main/gamemaker-icon-l3s22cd91hciaaym-c.png" width="30px"> Gamemaker Studio <br>
 </div>
