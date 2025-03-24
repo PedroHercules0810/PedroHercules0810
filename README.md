@@ -2,7 +2,7 @@
   Who am i?
   A learning dev, trying to be a back-end dev using JS, trying to learn the maximun i can.<br>
   Also, trying to be a Game Dev, it's my dream, and i'll not give up for this dream!<br>
-  ========================================//==============================================
+  ========================================//===========================================
   
   Quem sou eu?<br>
   Um dev em aprendizado, tentando ser um dev back-end usando JS, tentando aprender o máximo que posso.<br>
